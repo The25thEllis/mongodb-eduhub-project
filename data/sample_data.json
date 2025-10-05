@@ -1,0 +1,1319 @@
+{
+    "users": [
+        {
+            "_id": "68e2c719cec93274d47e9d6c",
+            "userId": "u1001",
+            "email": "ellis@example.com",
+            "firstName": "Ellis",
+            "lastName": "Ologun",
+            "role": "student",
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d80",
+            "userId": "U001",
+            "email": "user1@eduhub.com",
+            "firstName": "Michael",
+            "lastName": "Scott",
+            "role": "instructor",
+            "dateJoined": "2024-05-01T00:00:00",
+            "profile": {
+                "bio": "Michael Scott is a passionate instructor at EduHub.",
+                "avatar": "https://eduhub.com/avatars/michael_scott.jpg",
+                "skills": [
+                    "Python",
+                    "Data Analysis"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d81",
+            "userId": "U002",
+            "email": "user2@eduhub.com",
+            "firstName": "Jim",
+            "lastName": "Halpert",
+            "role": "student",
+            "dateJoined": "2024-05-02T00:00:00",
+            "profile": {
+                "bio": "Jim Halpert is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/jim_halpert.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d82",
+            "userId": "U003",
+            "email": "user3@eduhub.com",
+            "firstName": "Pam",
+            "lastName": "Beesly",
+            "role": "student",
+            "dateJoined": "2024-05-03T00:00:00",
+            "profile": {
+                "bio": "Pam Beesly is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/pam_beesly.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d83",
+            "userId": "U004",
+            "email": "user4@eduhub.com",
+            "firstName": "Dwight",
+            "lastName": "Schrute",
+            "role": "instructor",
+            "dateJoined": "2024-05-04T00:00:00",
+            "profile": {
+                "bio": "Dwight Schrute is a passionate instructor at EduHub.",
+                "avatar": "https://eduhub.com/avatars/dwight_schrute.jpg",
+                "skills": [
+                    "Python",
+                    "Data Analysis"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d84",
+            "userId": "U005",
+            "email": "user5@eduhub.com",
+            "firstName": "Andy",
+            "lastName": "Bernard",
+            "role": "student",
+            "dateJoined": "2024-05-05T00:00:00",
+            "profile": {
+                "bio": "Andy Bernard is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/andy_bernard.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d85",
+            "userId": "U006",
+            "email": "user6@eduhub.com",
+            "firstName": "Stanley",
+            "lastName": "Hudson",
+            "role": "student",
+            "dateJoined": "2024-05-06T00:00:00",
+            "profile": {
+                "bio": "Stanley Hudson is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/stanley_hudson.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d86",
+            "userId": "U007",
+            "email": "user7@eduhub.com",
+            "firstName": "Kevin",
+            "lastName": "Malone",
+            "role": "student",
+            "dateJoined": "2024-05-07T00:00:00",
+            "profile": {
+                "bio": "Kevin Malone is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/kevin_malone.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d87",
+            "userId": "U008",
+            "email": "user8@eduhub.com",
+            "firstName": "Angela",
+            "lastName": "Martin",
+            "role": "student",
+            "dateJoined": "2024-05-08T00:00:00",
+            "profile": {
+                "bio": "Angela Martin is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/angela_martin.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d88",
+            "userId": "U009",
+            "email": "user9@eduhub.com",
+            "firstName": "Oscar",
+            "lastName": "Martinez",
+            "role": "student",
+            "dateJoined": "2024-05-09T00:00:00",
+            "profile": {
+                "bio": "Oscar Martinez is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/oscar_martinez.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d89",
+            "userId": "U010",
+            "email": "user10@eduhub.com",
+            "firstName": "Phyllis",
+            "lastName": "Vance",
+            "role": "student",
+            "dateJoined": "2024-05-10T00:00:00",
+            "profile": {
+                "bio": "Phyllis Vance is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/phyllis_vance.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d8a",
+            "userId": "U011",
+            "email": "user11@eduhub.com",
+            "firstName": "Creed",
+            "lastName": "Bratton",
+            "role": "student",
+            "dateJoined": "2024-05-11T00:00:00",
+            "profile": {
+                "bio": "Creed Bratton is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/creed_bratton.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d8b",
+            "userId": "U012",
+            "email": "user12@eduhub.com",
+            "firstName": "Kelly",
+            "lastName": "Kapoor",
+            "role": "student",
+            "dateJoined": "2024-05-12T00:00:00",
+            "profile": {
+                "bio": "Kelly Kapoor is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/kelly_kapoor.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d8c",
+            "userId": "U013",
+            "email": "user13@eduhub.com",
+            "firstName": "Ryan",
+            "lastName": "Howard",
+            "role": "instructor",
+            "dateJoined": "2024-05-01T00:00:00",
+            "profile": {
+                "bio": "Ryan Howard is a passionate instructor at EduHub.",
+                "avatar": "https://eduhub.com/avatars/ryan_howard.jpg",
+                "skills": [
+                    "Python",
+                    "Data Analysis"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d8d",
+            "userId": "U014",
+            "email": "user14@eduhub.com",
+            "firstName": "Toby",
+            "lastName": "Flenderson",
+            "role": "student",
+            "dateJoined": "2024-05-02T00:00:00",
+            "profile": {
+                "bio": "Toby Flenderson is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/toby_flenderson.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d8e",
+            "userId": "U015",
+            "email": "user15@eduhub.com",
+            "firstName": "Meredith",
+            "lastName": "Palmer",
+            "role": "student",
+            "dateJoined": "2024-05-03T00:00:00",
+            "profile": {
+                "bio": "Meredith Palmer is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/meredith_palmer.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d8f",
+            "userId": "U016",
+            "email": "user16@eduhub.com",
+            "firstName": "Erin",
+            "lastName": "Hannon",
+            "role": "student",
+            "dateJoined": "2024-05-04T00:00:00",
+            "profile": {
+                "bio": "Erin Hannon is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/erin_hannon.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d90",
+            "userId": "U017",
+            "email": "user17@eduhub.com",
+            "firstName": "Jan",
+            "lastName": "Levinson",
+            "role": "instructor",
+            "dateJoined": "2024-05-05T00:00:00",
+            "profile": {
+                "bio": "Jan Levinson is a passionate instructor at EduHub.",
+                "avatar": "https://eduhub.com/avatars/jan_levinson.jpg",
+                "skills": [
+                    "Python",
+                    "Data Analysis"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d91",
+            "userId": "U018",
+            "email": "user18@eduhub.com",
+            "firstName": "Darryl",
+            "lastName": "Philbin",
+            "role": "student",
+            "dateJoined": "2024-05-06T00:00:00",
+            "profile": {
+                "bio": "Darryl Philbin is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/darryl_philbin.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d92",
+            "userId": "U019",
+            "email": "user19@eduhub.com",
+            "firstName": "Holly",
+            "lastName": "Flax",
+            "role": "instructor",
+            "dateJoined": "2024-05-07T00:00:00",
+            "profile": {
+                "bio": "Holly Flax is a passionate instructor at EduHub.",
+                "avatar": "https://eduhub.com/avatars/holly_flax.jpg",
+                "skills": [
+                    "Python",
+                    "Data Analysis"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "_id": "68e2d67ecec93274d47e9d93",
+            "userId": "U020",
+            "email": "user20@eduhub.com",
+            "firstName": "Gabe",
+            "lastName": "Lewis",
+            "role": "student",
+            "dateJoined": "2024-05-08T00:00:00",
+            "profile": {
+                "bio": "Gabe Lewis is a passionate student at EduHub.",
+                "avatar": "https://eduhub.com/avatars/gabe_lewis.jpg",
+                "skills": [
+                    "Excel",
+                    "Time Management"
+                ]
+            },
+            "isActive": true
+        }
+    ],
+    "courses": [
+        {
+            "_id": "68e2d8bfcec93274d47e9d9d",
+            "courseId": "C001",
+            "title": "Python for Beginners",
+            "description": "Learn Python from scratch with hands-on exercises.",
+            "instructorId": "U001",
+            "category": "Programming",
+            "level": "beginner",
+            "duration": 20,
+            "price": 50.0,
+            "tags": [
+                "python",
+                "coding",
+                "beginner"
+            ],
+            "createdAt": "2025-10-05T21:44:47.935000",
+            "updatedAt": "2025-10-05T21:44:47.935000",
+            "isPublished": true
+        },
+        {
+            "_id": "68e2d8bfcec93274d47e9d9e",
+            "courseId": "C002",
+            "title": "Data Analysis with Excel",
+            "description": "Master Excel for business and analytics.",
+            "instructorId": "U004",
+            "category": "Data Science",
+            "level": "beginner",
+            "duration": 15,
+            "price": 40.0,
+            "tags": [
+                "excel",
+                "data",
+                "analysis"
+            ],
+            "createdAt": "2025-10-05T21:44:47.935000",
+            "updatedAt": "2025-10-05T21:44:47.935000",
+            "isPublished": true
+        },
+        {
+            "_id": "68e2d8bfcec93274d47e9d9f",
+            "courseId": "C003",
+            "title": "Web Development Bootcamp",
+            "description": "Build modern websites using HTML, CSS, and JavaScript.",
+            "instructorId": "U013",
+            "category": "Web Development",
+            "level": "intermediate",
+            "duration": 30,
+            "price": 60.0,
+            "tags": [
+                "html",
+                "css",
+                "javascript"
+            ],
+            "createdAt": "2025-10-05T21:44:47.935000",
+            "updatedAt": "2025-10-05T21:44:47.935000",
+            "isPublished": true
+        },
+        {
+            "_id": "68e2d8bfcec93274d47e9da0",
+            "courseId": "C004",
+            "title": "Machine Learning 101",
+            "description": "Introductory course to machine learning fundamentals.",
+            "instructorId": "U017",
+            "category": "Artificial Intelligence",
+            "level": "beginner",
+            "duration": 25,
+            "price": 80.0,
+            "tags": [
+                "machine learning",
+                "ai",
+                "data"
+            ],
+            "createdAt": "2025-10-05T21:44:47.935000",
+            "updatedAt": "2025-10-05T21:44:47.935000",
+            "isPublished": true
+        },
+        {
+            "_id": "68e2d8bfcec93274d47e9da1",
+            "courseId": "C005",
+            "title": "Database Design with MongoDB",
+            "description": "Learn how to design efficient NoSQL databases.",
+            "instructorId": "U001",
+            "category": "Database",
+            "level": "intermediate",
+            "duration": 18,
+            "price": 70.0,
+            "tags": [
+                "mongodb",
+                "database",
+                "nosql"
+            ],
+            "createdAt": "2025-10-05T21:44:47.935000",
+            "updatedAt": "2025-10-05T21:44:47.935000",
+            "isPublished": true
+        },
+        {
+            "_id": "68e2d8bfcec93274d47e9da2",
+            "courseId": "C006",
+            "title": "Advanced Python Programming",
+            "description": "Deep dive into Python OOP, modules, and best practices.",
+            "instructorId": "U017",
+            "category": "Programming",
+            "level": "advanced",
+            "duration": 22,
+            "price": 90.0,
+            "tags": [
+                "python",
+                "advanced",
+                "oop"
+            ],
+            "createdAt": "2025-10-05T21:44:47.935000",
+            "updatedAt": "2025-10-05T21:44:47.935000",
+            "isPublished": true
+        },
+        {
+            "_id": "68e2d8bfcec93274d47e9da3",
+            "courseId": "C007",
+            "title": "Business Analytics Fundamentals",
+            "description": "Understand data-driven decision-making in business.",
+            "instructorId": "U019",
+            "category": "Business",
+            "level": "intermediate",
+            "duration": 16,
+            "price": 55.0,
+            "tags": [
+                "business",
+                "analytics",
+                "data"
+            ],
+            "createdAt": "2025-10-05T21:44:47.935000",
+            "updatedAt": "2025-10-05T21:44:47.935000",
+            "isPublished": true
+        },
+        {
+            "_id": "68e2d8bfcec93274d47e9da4",
+            "courseId": "C008",
+            "title": "Cloud Computing Basics",
+            "description": "Get started with AWS, Azure, and Google Cloud.",
+            "instructorId": "U013",
+            "category": "Cloud Computing",
+            "level": "beginner",
+            "duration": 20,
+            "price": 65.0,
+            "tags": [
+                "cloud",
+                "aws",
+                "azure"
+            ],
+            "createdAt": "2025-10-05T21:44:47.935000",
+            "updatedAt": "2025-10-05T21:44:47.935000",
+            "isPublished": true
+        }
+    ],
+    "enrollments": [
+        {
+            "_id": "68e1c265cec93274d47e9d26",
+            "enrollmentId": "E001",
+            "userId": "U003",
+            "courseId": "C001",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 35,
+            "status": "active"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d28",
+            "enrollmentId": "E003",
+            "userId": "U010",
+            "courseId": "C001",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 71,
+            "status": "active"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d29",
+            "enrollmentId": "E004",
+            "userId": "U011",
+            "courseId": "C004",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 4,
+            "status": "dropped"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d2a",
+            "enrollmentId": "E005",
+            "userId": "U016",
+            "courseId": "C006",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 45,
+            "status": "dropped"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d2b",
+            "enrollmentId": "E006",
+            "userId": "U010",
+            "courseId": "C007",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 23,
+            "status": "active"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d2c",
+            "enrollmentId": "E007",
+            "userId": "U009",
+            "courseId": "C006",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 70,
+            "status": "completed"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d2d",
+            "enrollmentId": "E008",
+            "userId": "U006",
+            "courseId": "C005",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 13,
+            "status": "dropped"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d2e",
+            "enrollmentId": "E009",
+            "userId": "U005",
+            "courseId": "C002",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 50,
+            "status": "active"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d2f",
+            "enrollmentId": "E010",
+            "userId": "U008",
+            "courseId": "C001",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 69,
+            "status": "dropped"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d30",
+            "enrollmentId": "E011",
+            "userId": "U020",
+            "courseId": "C001",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 91,
+            "status": "active"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d31",
+            "enrollmentId": "E012",
+            "userId": "U009",
+            "courseId": "C007",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 69,
+            "status": "dropped"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d32",
+            "enrollmentId": "E013",
+            "userId": "U010",
+            "courseId": "C004",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 67,
+            "status": "active"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d33",
+            "enrollmentId": "E014",
+            "userId": "U008",
+            "courseId": "C007",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 92,
+            "status": "active"
+        },
+        {
+            "_id": "68e1c265cec93274d47e9d34",
+            "enrollmentId": "E015",
+            "userId": "U009",
+            "courseId": "C003",
+            "dateEnrolled": "2025-10-05T01:57:09.831000",
+            "progress": 29,
+            "status": "dropped"
+        },
+        {
+            "_id": "68e2b4d7cec93274d47e9d68",
+            "enrollmentId": "E4462",
+            "studentId": "68e1bfb7cec93274d47e9d0b",
+            "courseId": "C001",
+            "enrolledAt": "2025-10-05T18:11:35.868000",
+            "progress": 0,
+            "status": "in-progress"
+        }
+    ],
+    "lessons": [
+        {
+            "_id": "68e1c319cec93274d47e9d35",
+            "lessonId": "L001",
+            "courseId": "C004",
+            "title": "Lesson 1: Key Concepts of Course C004",
+            "content": "This lesson covers important concepts for C004.",
+            "durationMinutes": 14,
+            "order": 8,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d36",
+            "lessonId": "L002",
+            "courseId": "C004",
+            "title": "Lesson 2: Key Concepts of Course C004",
+            "content": "This lesson covers important concepts for C004.",
+            "durationMinutes": 15,
+            "order": 1,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d37",
+            "lessonId": "L003",
+            "courseId": "C007",
+            "title": "Lesson 3: Key Concepts of Course C007",
+            "content": "This lesson covers important concepts for C007.",
+            "durationMinutes": 20,
+            "order": 1,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d38",
+            "lessonId": "L004",
+            "courseId": "C002",
+            "title": "Lesson 4: Key Concepts of Course C002",
+            "content": "This lesson covers important concepts for C002.",
+            "durationMinutes": 16,
+            "order": 3,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d39",
+            "lessonId": "L005",
+            "courseId": "C004",
+            "title": "Lesson 5: Key Concepts of Course C004",
+            "content": "This lesson covers important concepts for C004.",
+            "durationMinutes": 35,
+            "order": 8,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d3a",
+            "lessonId": "L006",
+            "courseId": "C003",
+            "title": "Lesson 6: Key Concepts of Course C003",
+            "content": "This lesson covers important concepts for C003.",
+            "durationMinutes": 29,
+            "order": 3,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d3b",
+            "lessonId": "L007",
+            "courseId": "C005",
+            "title": "Lesson 7: Key Concepts of Course C005",
+            "content": "This lesson covers important concepts for C005.",
+            "durationMinutes": 15,
+            "order": 3,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d3c",
+            "lessonId": "L008",
+            "courseId": "C008",
+            "title": "Lesson 8: Key Concepts of Course C008",
+            "content": "This lesson covers important concepts for C008.",
+            "durationMinutes": 14,
+            "order": 7,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d3d",
+            "lessonId": "L009",
+            "courseId": "C003",
+            "title": "Lesson 9: Key Concepts of Course C003",
+            "content": "This lesson covers important concepts for C003.",
+            "durationMinutes": 17,
+            "order": 1,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d3e",
+            "lessonId": "L010",
+            "courseId": "C004",
+            "title": "Lesson 10: Key Concepts of Course C004",
+            "content": "This lesson covers important concepts for C004.",
+            "durationMinutes": 39,
+            "order": 5,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d3f",
+            "lessonId": "L011",
+            "courseId": "C002",
+            "title": "Lesson 11: Key Concepts of Course C002",
+            "content": "This lesson covers important concepts for C002.",
+            "durationMinutes": 19,
+            "order": 4,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d40",
+            "lessonId": "L012",
+            "courseId": "C006",
+            "title": "Lesson 12: Key Concepts of Course C006",
+            "content": "This lesson covers important concepts for C006.",
+            "durationMinutes": 26,
+            "order": 10,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d41",
+            "lessonId": "L013",
+            "courseId": "C004",
+            "title": "Lesson 13: Key Concepts of Course C004",
+            "content": "This lesson covers important concepts for C004.",
+            "durationMinutes": 41,
+            "order": 6,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d42",
+            "lessonId": "L014",
+            "courseId": "C008",
+            "title": "Lesson 14: Key Concepts of Course C008",
+            "content": "This lesson covers important concepts for C008.",
+            "durationMinutes": 24,
+            "order": 9,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d43",
+            "lessonId": "L015",
+            "courseId": "C004",
+            "title": "Lesson 15: Key Concepts of Course C004",
+            "content": "This lesson covers important concepts for C004.",
+            "durationMinutes": 21,
+            "order": 2,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d44",
+            "lessonId": "L016",
+            "courseId": "C004",
+            "title": "Lesson 16: Key Concepts of Course C004",
+            "content": "This lesson covers important concepts for C004.",
+            "durationMinutes": 12,
+            "order": 1,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d45",
+            "lessonId": "L017",
+            "courseId": "C001",
+            "title": "Lesson 17: Key Concepts of Course C001",
+            "content": "This lesson covers important concepts for C001.",
+            "durationMinutes": 16,
+            "order": 10,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d46",
+            "lessonId": "L018",
+            "courseId": "C006",
+            "title": "Lesson 18: Key Concepts of Course C006",
+            "content": "This lesson covers important concepts for C006.",
+            "durationMinutes": 23,
+            "order": 8,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d47",
+            "lessonId": "L019",
+            "courseId": "C007",
+            "title": "Lesson 19: Key Concepts of Course C007",
+            "content": "This lesson covers important concepts for C007.",
+            "durationMinutes": 38,
+            "order": 9,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d48",
+            "lessonId": "L020",
+            "courseId": "C003",
+            "title": "Lesson 20: Key Concepts of Course C003",
+            "content": "This lesson covers important concepts for C003.",
+            "durationMinutes": 30,
+            "order": 1,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d49",
+            "lessonId": "L021",
+            "courseId": "C001",
+            "title": "Lesson 21: Key Concepts of Course C001",
+            "content": "This lesson covers important concepts for C001.",
+            "durationMinutes": 40,
+            "order": 6,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d4a",
+            "lessonId": "L022",
+            "courseId": "C001",
+            "title": "Lesson 22: Key Concepts of Course C001",
+            "content": "This lesson covers important concepts for C001.",
+            "durationMinutes": 32,
+            "order": 4,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d4b",
+            "lessonId": "L023",
+            "courseId": "C001",
+            "title": "Lesson 23: Key Concepts of Course C001",
+            "content": "This lesson covers important concepts for C001.",
+            "durationMinutes": 15,
+            "order": 9,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d4c",
+            "lessonId": "L024",
+            "courseId": "C005",
+            "title": "Lesson 24: Key Concepts of Course C005",
+            "content": "This lesson covers important concepts for C005.",
+            "durationMinutes": 45,
+            "order": 4,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        },
+        {
+            "_id": "68e1c319cec93274d47e9d4d",
+            "lessonId": "L025",
+            "courseId": "C008",
+            "title": "Lesson 25: Key Concepts of Course C008",
+            "content": "This lesson covers important concepts for C008.",
+            "durationMinutes": 14,
+            "order": 3,
+            "createdAt": "2025-10-05T02:00:09.255000",
+            "updatedAt": "2025-10-05T02:00:09.255000"
+        }
+    ],
+    "assignments": [
+        {
+            "_id": "68e1c61acec93274d47e9d4e",
+            "assignmentId": "A001",
+            "courseId": "C003",
+            "title": "Assignment 1 for C003",
+            "description": "This assignment tests understanding of core concepts in C003.",
+            "dueDate": "2025-10-19T02:12:58.740000",
+            "maxScore": 52,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d4f",
+            "assignmentId": "A002",
+            "courseId": "C002",
+            "title": "Assignment 2 for C002",
+            "description": "This assignment tests understanding of core concepts in C002.",
+            "dueDate": "2025-10-12T02:12:58.740000",
+            "maxScore": 96,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d50",
+            "assignmentId": "A003",
+            "courseId": "C001",
+            "title": "Assignment 3 for C001",
+            "description": "This assignment tests understanding of core concepts in C001.",
+            "dueDate": "2025-10-18T02:12:58.740000",
+            "maxScore": 53,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d51",
+            "assignmentId": "A004",
+            "courseId": "C001",
+            "title": "Assignment 4 for C001",
+            "description": "This assignment tests understanding of core concepts in C001.",
+            "dueDate": "2025-10-21T02:12:58.740000",
+            "maxScore": 82,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d52",
+            "assignmentId": "A005",
+            "courseId": "C008",
+            "title": "Assignment 5 for C008",
+            "description": "This assignment tests understanding of core concepts in C008.",
+            "dueDate": "2025-10-13T02:12:58.740000",
+            "maxScore": 98,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d53",
+            "assignmentId": "A006",
+            "courseId": "C008",
+            "title": "Assignment 6 for C008",
+            "description": "This assignment tests understanding of core concepts in C008.",
+            "dueDate": "2025-10-13T02:12:58.740000",
+            "maxScore": 93,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d54",
+            "assignmentId": "A007",
+            "courseId": "C001",
+            "title": "Assignment 7 for C001",
+            "description": "This assignment tests understanding of core concepts in C001.",
+            "dueDate": "2025-10-17T02:12:58.740000",
+            "maxScore": 73,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d55",
+            "assignmentId": "A008",
+            "courseId": "C004",
+            "title": "Assignment 8 for C004",
+            "description": "This assignment tests understanding of core concepts in C004.",
+            "dueDate": "2025-10-12T02:12:58.740000",
+            "maxScore": 56,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d56",
+            "assignmentId": "A009",
+            "courseId": "C007",
+            "title": "Assignment 9 for C007",
+            "description": "This assignment tests understanding of core concepts in C007.",
+            "dueDate": "2025-10-17T02:12:58.740000",
+            "maxScore": 91,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        },
+        {
+            "_id": "68e1c61acec93274d47e9d57",
+            "assignmentId": "A010",
+            "courseId": "C004",
+            "title": "Assignment 10 for C004",
+            "description": "This assignment tests understanding of core concepts in C004.",
+            "dueDate": "2025-10-22T02:12:58.740000",
+            "maxScore": 56,
+            "createdAt": "2025-10-05T02:12:58.740000",
+            "updatedAt": "2025-10-05T02:12:58.740000"
+        }
+    ],
+    "submissions": [
+        {
+            "_id": "68e1c766cec93274d47e9d58",
+            "submissionId": "S001",
+            "assignmentId": "A003",
+            "studentId": "U006",
+            "submittedAt": "2025-10-01T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/1",
+            "grade": 95,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d59",
+            "submissionId": "S002",
+            "assignmentId": "A002",
+            "studentId": "U008",
+            "submittedAt": "2025-10-01T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/2",
+            "grade": 87,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d5a",
+            "submissionId": "S003",
+            "assignmentId": "A002",
+            "studentId": "U018",
+            "submittedAt": "2025-10-03T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/3",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d5b",
+            "submissionId": "S004",
+            "assignmentId": "A002",
+            "studentId": "U007",
+            "submittedAt": "2025-10-04T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/4",
+            "grade": 95,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d5c",
+            "submissionId": "S005",
+            "assignmentId": "A007",
+            "studentId": "U014",
+            "submittedAt": "2025-10-03T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/5",
+            "grade": 92,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d5d",
+            "submissionId": "S006",
+            "assignmentId": "A001",
+            "studentId": "U009",
+            "submittedAt": "2025-10-03T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/6",
+            "grade": 66,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d5e",
+            "submissionId": "S007",
+            "assignmentId": "A005",
+            "studentId": "U012",
+            "submittedAt": "2025-10-01T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/7",
+            "grade": 85,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d5f",
+            "submissionId": "S008",
+            "assignmentId": "A006",
+            "studentId": "U002",
+            "submittedAt": "2025-10-02T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/8",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d60",
+            "submissionId": "S009",
+            "assignmentId": "A005",
+            "studentId": "U009",
+            "submittedAt": "2025-10-05T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/9",
+            "grade": 69,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d61",
+            "submissionId": "S010",
+            "assignmentId": "A008",
+            "studentId": "U002",
+            "submittedAt": "2025-10-05T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/10",
+            "grade": 84,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d62",
+            "submissionId": "S011",
+            "assignmentId": "A010",
+            "studentId": "U010",
+            "submittedAt": "2025-10-02T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/11",
+            "grade": 68,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e1c766cec93274d47e9d63",
+            "submissionId": "S012",
+            "assignmentId": "A002",
+            "studentId": "U012",
+            "submittedAt": "2025-10-05T02:18:30.157000",
+            "content": "https://eduhub.com/submissions/12",
+            "grade": 99,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d6f",
+            "submissionId": "S001",
+            "assignmentId": "A003",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-01T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/1",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d70",
+            "submissionId": "S002",
+            "assignmentId": "A003",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-02T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/2",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d71",
+            "submissionId": "S003",
+            "assignmentId": "A004",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-02T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/3",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d72",
+            "submissionId": "S004",
+            "assignmentId": "A010",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-03T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/4",
+            "grade": 86,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d73",
+            "submissionId": "S005",
+            "assignmentId": "A004",
+            "studentId": "u1001",
+            "submittedAt": "2025-09-30T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/5",
+            "grade": 92,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d74",
+            "submissionId": "S006",
+            "assignmentId": "A002",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-04T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/6",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d75",
+            "submissionId": "S007",
+            "assignmentId": "A006",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-02T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/7",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d76",
+            "submissionId": "S008",
+            "assignmentId": "A005",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-01T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/8",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d77",
+            "submissionId": "S009",
+            "assignmentId": "A006",
+            "studentId": "u1001",
+            "submittedAt": "2025-09-30T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/9",
+            "grade": 56,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d78",
+            "submissionId": "S010",
+            "assignmentId": "A002",
+            "studentId": "u1001",
+            "submittedAt": "2025-09-30T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/10",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d79",
+            "submissionId": "S011",
+            "assignmentId": "A008",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-03T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/11",
+            "grade": 67,
+            "feedback": "Well done!",
+            "isGraded": true
+        },
+        {
+            "_id": "68e2cb2ecec93274d47e9d7a",
+            "submissionId": "S012",
+            "assignmentId": "A010",
+            "studentId": "u1001",
+            "submittedAt": "2025-10-01T20:46:54.428000",
+            "content": "https://eduhub.com/submissions/12",
+            "grade": null,
+            "feedback": "Pending grading",
+            "isGraded": false
+        }
+    ]
+}

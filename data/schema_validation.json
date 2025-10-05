@@ -1,0 +1,95 @@
+{
+    "users": {
+        "requiredFields": [
+            "userId",
+            "email",
+            "firstName",
+            "lastName",
+            "role"
+        ],
+        "fieldTypes": {
+            "userId": "string",
+            "email": "string",
+            "firstName": "string",
+            "lastName": "string",
+            "role": "enum: ['student', 'instructor']",
+            "isActive": "boolean",
+            "profile": {
+                "bio": "string",
+                "avatar": "string",
+                "skills": "array of strings"
+            }
+        }
+    },
+    "courses": {
+        "requiredFields": [
+            "courseId",
+            "title",
+            "instructorId",
+            "category",
+            "price"
+        ],
+        "fieldTypes": {
+            "courseId": "string",
+            "title": "string",
+            "description": "string",
+            "instructorId": "string",
+            "category": "string",
+            "level": "string",
+            "duration": "number",
+            "price": "number",
+            "tags": "array of strings",
+            "createdAt": "datetime",
+            "updatedAt": "datetime",
+            "isPublished": "boolean"
+        }
+    },
+    "enrollments": {
+        "requiredFields": [
+            "enrollmentId",
+            "userId",
+            "courseId"
+        ],
+        "fieldTypes": {
+            "enrollmentId": "string",
+            "userId": "string",
+            "courseId": "string",
+            "dateEnrolled": "datetime",
+            "progress": "number",
+            "status": "string"
+        }
+    },
+    "lessons": {
+        "requiredFields": [
+            "lessonId",
+            "courseId",
+            "title",
+            "content"
+        ],
+        "fieldTypes": {
+            "lessonId": "string",
+            "courseId": "string",
+            "title": "string",
+            "content": "string",
+            "duration": "number",
+            "createdAt": "datetime",
+            "updatedAt": "datetime"
+        }
+    },
+    "assignments": {
+        "requiredFields": [
+            "assignmentId",
+            "courseId",
+            "title",
+            "dueDate"
+        ],
+        "fieldTypes": {
+            "assignmentId": "string",
+            "courseId": "string",
+            "title": "string",
+            "description": "string",
+            "dueDate": "datetime",
+            "maxScore": "number"
+        }
+    }
+}
