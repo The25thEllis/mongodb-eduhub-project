@@ -18,8 +18,7 @@ mongodb-eduhub-project/
 │ └── presentation.pptx
 └── .gitignore
 
-markdown
-Copy code
+
 
 ## Project Contents
 
@@ -47,12 +46,9 @@ Copy code
 
 ## How to Run
 1. Clone the repository:
-```bash
 git clone https://github.com/The25thEllis/mongodb-eduhub-project.git
-Install dependencies:
 
-bash
-Copy code
+Install dependencies:
 pip install pymongo
 Run scripts in src/ or open the notebook in notebooks/.
 
